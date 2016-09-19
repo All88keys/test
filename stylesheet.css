@@ -1,5 +1,10 @@
 * {
-	font-family: Helvetica, Verdana, cursive;
+	font-family: Arial, Verdana, sans-serif;
+	color: #333333;
+}
+
+body {
+	background-color:#333333;
 }
 
 div {
@@ -12,7 +17,7 @@ div {
 	width: 97.5%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #668284;
+	background-color: #204c39;
 	margin-bottom: 10px;
 }
 
@@ -44,7 +49,6 @@ h4 {
 	margin-left: 5px;
 	margin-right: 5px;
 	margin-top: -10px;
-	font-family: Garamond, serif;
 	color: #000000;
 }
 
@@ -62,7 +66,7 @@ a:hover {
 	margin-top: 50px;
 	width: 10%;
 	height: 4000px;
-	background-color: #B9D7D9;
+	background-color: #295f48;
 	margin-bottom: 10px;
 }
 
@@ -72,7 +76,7 @@ a:hover {
 	margin-top: 50px;
 	width: 88%;
 	height: 4000px;
-	background-color: #F4EBC3;
+	background-color: #eeeeee;
 	margin-bottom: 10px;
 }
 
@@ -84,7 +88,7 @@ a:hover {
 	font-family: Verdana, sans-serif;
 	font-size: 14px;
 	text-align: center;
-	color: #ffffff;
+	color: 	#18392b;
 }
 
 #footer p {
